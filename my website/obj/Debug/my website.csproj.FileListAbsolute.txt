@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2010\Projects\my website\my website\bin\my website.dll
+c:\users\admin\documents\visual studio 2010\Projects\my website\my website\bin\my website.pdb
+c:\users\admin\documents\visual studio 2010\Projects\my website\my website\obj\Debug\my website.dll
+c:\users\admin\documents\visual studio 2010\Projects\my website\my website\obj\Debug\my website.pdb
+F:\backup\my website\my website\bin\my website.dll
+F:\backup\my website\my website\bin\my website.pdb
+F:\backup\my website\my website\obj\Debug\my website.dll
+F:\backup\my website\my website\obj\Debug\my website.pdb
+F:\backup\my website\my website\obj\Debug\my website.csprojResolveAssemblyReference.cache
